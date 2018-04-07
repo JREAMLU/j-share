@@ -43,7 +43,7 @@ Data [https://nba.hupu.com/players/kyrieirving-3554.html](https://nba.hupu.com/p
 
 ## Kyrie Irving
 
-> is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA). He was named NBA Rookie of the Year after being selected by the Cleveland Cavaliers with the first overall pick in the 2011 NBA draft. A five-time NBA All-Star, Irving was selected to the All-NBA Third Team in 2015. He won an NBA championship with the Cavaliers in 2016.
+> is an American professional basketball player for the Boston Celtics of the National Basketball Association (NBA). He was named NBA Rookie of the Year after being selected by the Cleveland Cavaliers with the first overall pick in the 2011 NBA draft.
 
 ---
 
